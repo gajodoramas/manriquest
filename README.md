@@ -10,15 +10,15 @@
 **ManriQuest** is a 2D medieval fantasy platformer where you collect coins,
 dodge deadly traps, and battle your way to a challenging final boss.
 
-The project was built using **C#** in **Unity**.
+The project was built using **C#** in **Unity** engine and a collection of
+**royalty-free** resources from the internet. 
+
+**Manriquest** can be played downloading the [latest release](https://github.com/gajodoramas/manriquest/releases/latest).
 
 > [!NOTE]
 > Developed as a student project (2021 - 2023) under time constraints,
 > this application provides core functionality but remains a prototype.
 > Please be aware that you may encounter bugs or non-production-ready code.
-
-The project was built using the **Unity** engine and a collection of
-**royalty-free** resources from the internet.
 
 ## Media
 
